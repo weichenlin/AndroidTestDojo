@@ -48,7 +48,11 @@ TextView 基本上只是個用來接收 Output 的物件，只需要確認最終
 3. Average 將空陣列的平均顯示為 0
 4. 平均值的精度為小數點後三位
 
-測試（只包含 Person 與 Average）的覆蓋率為 100%，這邊有[覆蓋率報告](TestReport/index.html)。
+測試（只包含 Person 與 Average）的覆蓋率為 100%。
 
-其中第二個失敗的測試比較特別一些，如果程式正確的話應該會造成無法編譯的情況。我把這個問題丟上 StackOverflow 去問，也沒有好的解法，
-[連結在這裡](http://stackoverflow.com/questions/31375437/how-to-unit-test-code-that-should-cause-compile-error)。
+其中第二個失敗的測試比較特別一些，如果程式正確的話應該會造成無法編譯的情況。我把這個問題丟上 StackOverflow 去問，也沒有好的解法。
+
+### 連結
+* [覆蓋率報告](TestReport/index.html)
+* [丟到 StackOverflow 的問題](http://stackoverflow.com/questions/31375437/how-to-unit-test-code-that-should-cause-compile-error)
+* [測試原始碼](https://github.com/weichenlin/AndroidTestDojo/tree/master/kata_1/app/src/test/java/cc/aznc/utdojo/kata_1)
