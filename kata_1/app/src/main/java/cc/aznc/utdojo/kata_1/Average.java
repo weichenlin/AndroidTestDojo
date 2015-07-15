@@ -1,4 +1,4 @@
-package cc.aznc.utdojo_1;
+package cc.aznc.utdojo.kata_1;
 
 import android.widget.TextView;
 import java.text.NumberFormat;

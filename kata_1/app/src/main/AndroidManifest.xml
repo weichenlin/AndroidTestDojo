@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="cc.aznc.utdojo_1" >
+    package="cc.aznc.utdojo.kata_1" >
 
     <application
         android:allowBackup="true"

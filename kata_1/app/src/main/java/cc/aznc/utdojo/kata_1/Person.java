@@ -1,6 +1,7 @@
-package cc.aznc.utdojo_1;
+package cc.aznc.utdojo.kata_1;
 
-public class Person {
+public class Person
+{
     private int pay = 0;
 
     public Person(int pay)
